@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Job Listing with Filtering app made using React.
 
 ## Available Scripts
 
